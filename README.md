@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DavidBurke520/Azure-Networking-Protocols)
   - [Configuring Active Directory within Azure VMs](https://github.com/DavidBurke520/Configuring-Active-Directory)
-  - [Network Share Files]
+  - [Network Share Files](https://github.com/DavidBurke520/Network-Share-Files)
   - [Learning about DNS (Domain Name Server)]
 <h2>🤳Connect with me:</h2>
 
